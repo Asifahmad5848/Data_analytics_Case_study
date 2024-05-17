@@ -1,4 +1,4 @@
-Data_analytics_Case_study
+# Data_analytics_Case_study
 
 This project aims to analyze Students scores data stored in a CSV file and provide insights into the distribution and patterns of the scores.
 
